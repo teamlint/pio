@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/kataras/pio/terminal"
+	"github.com/teamlint/pio/terminal"
 )
 
 func isTerminal(output io.Writer) bool {

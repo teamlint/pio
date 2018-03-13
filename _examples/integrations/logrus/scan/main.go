@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/kataras/pio"
 	"github.com/sirupsen/logrus"
+	"github.com/teamlint/pio"
 )
 
 func main() {

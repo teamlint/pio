@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kataras/pio"
 	"github.com/sirupsen/logrus"
+	"github.com/teamlint/pio"
 )
 
 /*

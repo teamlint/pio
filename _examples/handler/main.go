@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/kataras/pio"
+	"github.com/teamlint/pio"
 )
 
 type message struct {

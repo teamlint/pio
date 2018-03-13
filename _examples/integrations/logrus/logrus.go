@@ -12,8 +12,8 @@ Example Code:
 	package main
 
 	import (
-		"github.com/kataras/pio"
-		_ "github.com/kataras/pio/_examples/integrations/logrus"
+		"github.com/teamlint/pio"
+		_ "github.com/teamlint/pio/_examples/integrations/logrus"
 	)
 
 	func main() {
@@ -24,8 +24,8 @@ Example Code:
 package logrus
 
 import (
-	"github.com/kataras/pio"
 	"github.com/sirupsen/logrus"
+	"github.com/teamlint/pio"
 )
 
 // Name of this printer.

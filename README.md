@@ -2,11 +2,11 @@
 
 PIO [_Pill for Input/Output_] tries to cure headaches by solving problems where [go](https://golang.org) applications use different kinds of print targets or even loggers.
 
-[![build status](https://img.shields.io/travis/kataras/pio/master.svg?style=flat-square)](https://travis-ci.org/kataras/pio)
-[![report card](https://img.shields.io/badge/report%20card-a%2B-ff3333.svg?style=flat-square)](http://goreportcard.com/report/kataras/pio)
-[![godocs](https://img.shields.io/badge/online-documentation-0366d6.svg?style=flat-square)](https://godoc.org/github.com/kataras/pio)
-[![github issues](https://img.shields.io/github/issues/kataras/pio.svg?style=flat-square)](https://github.com/kataras/pio/issues?q=is%3Aopen+is%3Aissue)
-[![github closed issues](https://img.shields.io/github/issues-closed-raw/kataras/pio.svg?style=flat-square)](https://github.com/kataras/pio/issues?q=is%3Aissue+is%3Aclosed)
+[![build status](https://img.shields.io/travis/teamlint/pio/master.svg?style=flat-square)](https://travis-ci.org/teamlint/pio)
+[![report card](https://img.shields.io/badge/report%20card-a%2B-ff3333.svg?style=flat-square)](http://goreportcard.com/report/teamlint/pio)
+[![godocs](https://img.shields.io/badge/online-documentation-0366d6.svg?style=flat-square)](https://godoc.org/github.com/teamlint/pio)
+[![github issues](https://img.shields.io/github/issues/teamlint/pio.svg?style=flat-square)](https://github.com/teamlint/pio/issues?q=is%3Aopen+is%3Aissue)
+[![github closed issues](https://img.shields.io/github/issues-closed-raw/teamlint/pio.svg?style=flat-square)](https://github.com/teamlint/pio/issues?q=is%3Aissue+is%3Aclosed)
 
 - it can combine all your loggers as one
 - it can scan from any source and print
@@ -19,21 +19,21 @@ Navigate through [_examples](_examples/) and [integrations](_examples/integratio
 The only requirement is the Go Programming Language[*](https://golang.org).
 
 ```bash
-$ go get github.com/kataras/pio
+$ go get github.com/teamlint/pio
 ```
 
 > PIO is built on top of the standard library, it has zero external dependencies.
 
 ### 👥 Contributing
 
-If you find that something is not working as expected please open an [issue](https://github.com/kataras/pio/issues).
+If you find that something is not working as expected please open an [issue](https://github.com/teamlint/pio/issues).
 
-If you have any previous experience on this field your [PR](https://github.com/kataras/pio/pulls) means gold to me!
+If you have any previous experience on this field your [PR](https://github.com/teamlint/pio/pulls) means gold to me!
 
 ### 📦 Projects using PIO
 
 | Package | Author | Description |
 | -----------|--------|-------------|
-| [golog](https://github.com/kataras/golog) | [Gerasimos Maropoulos](https://github.com/kataras) | Simple, fast and easy-to-use level-based logger written entirely in [GoLang](https://golang.org). |
+| [golog](https://github.com/teamlint/golog) | [Gerasimos Maropoulos](https://github.com/kataras) | Simple, fast and easy-to-use level-based logger written entirely in [GoLang](https://golang.org). |
 
-> Do not hesitate to put your package on this list via [PR](https://github.com/kataras/pio/pulls)!
+> Do not hesitate to put your package on this list via [PR](https://github.com/teamlint/pio/pulls)!
